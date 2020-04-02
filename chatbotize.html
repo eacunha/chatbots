@@ -3,21 +3,20 @@
 <head>
 </head>
 <body>
-<div id="chatbotize-widget" style="width:100%;height:650px;"></div>
-      <script type="text/javascript">
+<script type="text/javascript">
       (function(d, s, id, cb) {
         var js = d.createElement(s);
         var n = d.createElement("div");
         n.id = id;
-        if (js.readyState) {js.onreadystatechange = function() {if (js.readyState === "loaded" || js.readyState === "complete") {js.onreadystatechange = null;cb();}};
+        if (js.readyState) {js.onreadystatechange = function() {if (js.readyState === "loaded" || js.readyState === "complete") {js.onreadystatechange = null; cb();}};
         } else {js.onload = function(){cb();};}
-        js.src = "https://embedded-chat.chatbotize.com/chatbotize-entrypoint.min.js";
+        js.src = "https://live-chat.chatbotize.com/chatbotize-entrypoint.min.js";
         document.body.appendChild(js);
         document.body.appendChild(n);
-      })(document, "script", "chatbotize", function() { 
+      })(document, "script", "chatbotize", function() {
         Chatbotize.init({
-          nodeId: "chatbotize-widget",
-          instanceId: "4aea7509fc544a20827c35c4920051f1"
+          instanceId: "4aea7509fc544a20827c35c4920051f1",
+          startOnOpen: true,
         });
       });
       </script>
