@@ -5,4 +5,5 @@
 [Chatbot](chatbot.html)
 [Botstar](botstar.html)
 [Chatbotize](chatbotize.html)
-..
+[Chatfuel using Facebook](chatfuel.html)
+
