@@ -1,4 +1,5 @@
 # chatbots
+List of already implemented chatbots:
 
 [SAPCAI](SAPCAI.html)
 [Facebook](Facebook.html)
@@ -9,4 +10,5 @@
 [Chatfuel Checkbox](chatfuel_checkbox.html)
 [Engati](engati.html)
 [Flow](flow.html)
-.
+
+To see them in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
