@@ -7,7 +7,7 @@ List of already implemented chatbots:
   <li><a href="chatbot.html">chatbot.com</a></li>
   <li><a href="chatbotize.html">chatbotize.com</a></li>
   <li><a href="chatfuel.html">chatfuel.com</a></li>
-  <li><a href="chatfuel_checkbox.html">chatfuel checkbox</a></li>
+  <li><a href="chatfuel_checkbox.html">chatfuel.com checkbox</a></li>
   <li><a href="engati.html">engati.com</a></li>
   <li><a href="Facebook.html">facebook.com</a></li>
   <li><a href="flow.html">flow.ai</a></li>
