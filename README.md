@@ -16,5 +16,7 @@ List of already implemented chatbots:
 [Chatfuel Checkbox](chatfuel_checkbox.html)
 [Engati](engati.html)
 [Flow](flow.html)
+[Flowxo](flowxo.html)
+[flowxo Independent](https://fxo.io/m/85eyk78b)
 
 To see them in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
