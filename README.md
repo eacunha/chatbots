@@ -18,5 +18,6 @@ List of already implemented chatbots:
 [Flow](flow.html)
 [Flowxo](flowxo.html)
 [flowxo Independent](https://fxo.io/m/85eyk78b)
+[hubspot](hubspot.html)
 
 To see them in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
