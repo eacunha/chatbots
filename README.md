@@ -3,7 +3,7 @@ List of already implemented chatbots:
 
 <ul style="list-style-type:circle;">
   <li>[SAPCAI](SAPCAI.html)</li>
-  <li>Tea</li>
+  <li><a href="SAPCAI.html">SAPCAI</a></li>
   <li>Milk</li>
 </ul>
 
