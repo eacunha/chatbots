@@ -9,7 +9,7 @@ List of already implemented chatbots:
   <li><a href="chatfuel.html">chatfuel.com</a></li>
   <li><a href="chatfuel_checkbox.html">chatfuel checkbox</a></li>
   <li><a href="engati.html">engati.com</a></li>
-  <li><a href="facebook.html">facebook.com</a></li>
+  <li><a href="Facebook.html">facebook.com</a></li>
   <li><a href="flow.html">flow.ai</a></li>
   <li><a href="flowxo.html">flowxo.com</a></li>
   <li><a href="https://fxo.io/m/85eyk78b">flowxo.com self-hosted</a></li>
