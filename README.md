@@ -6,8 +6,6 @@ List of already implemented chatbots using webchat:
   <li><a href="SAPCAI.html">cai.tools.sap</a></li>
   <li><a href="chatbot.html">chatbot.com</a></li>
   <li><a href="chatbotize.html">chatbotize.com</a></li>
-  <li><a href="chatfuel.html">chatfuel.com</a></li>
-  <li><a href="chatfuel_checkbox.html">chatfuel.com checkbox</a></li>
   <li><a href="engati.html">engati.com</a></li>
   <li><a href="flow.html">flow.ai</a></li>
   <li><a href="flowxo.html">flowxo.com</a></li>
@@ -18,6 +16,8 @@ List of already implemented chatbots using webchat:
 List of already implemented chatbots using Facebook:
 
 <ul style="list-style-type:circle;">
+  <li><a href="chatfuel.html">chatfuel.com</a></li>
+  <li><a href="chatfuel_checkbox.html">chatfuel.com checkbox</a></li>
   <li><a href="Facebook.html">facebook.com</a></li>
   <li><a href="Facebook_itsalive.html">itsalive.io</a></li>
 </ul>
