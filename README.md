@@ -22,4 +22,4 @@ List of already implemented chatbots using Facebook:
   <li><a href="Facebook_itsalive.html">itsalive.io</a></li>
 </ul>
 
-To see them in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
+To see all of these bots in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
