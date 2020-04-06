@@ -1,5 +1,6 @@
 # chatbots
-List of already implemented chatbots:
+List of already implemented chatbots using webchat:
+
 <ul style="list-style-type:circle;">
   <li><a href="botstar.html">botstar.com</a></li>
   <li><a href="SAPCAI.html">cai.tools.sap</a></li>
@@ -8,12 +9,17 @@ List of already implemented chatbots:
   <li><a href="chatfuel.html">chatfuel.com</a></li>
   <li><a href="chatfuel_checkbox.html">chatfuel.com checkbox</a></li>
   <li><a href="engati.html">engati.com</a></li>
-  <li><a href="Facebook.html">facebook.com</a></li>
-  <li><a href="Facebook_itsalive.html">facebook.com by itsalive.io</a></li>
   <li><a href="flow.html">flow.ai</a></li>
   <li><a href="flowxo.html">flowxo.com</a></li>
   <li><a href="https://fxo.io/m/85eyk78b">flowxo.com self-hosted</a></li>
   <li><a href="hubspot.html">hubspot.com</a></li>
+</ul>
+
+List of already implemented chatbots using Facebook:
+
+<ul style="list-style-type:circle;">
+  <li><a href="Facebook.html">facebook.com</a></li>
+  <li><a href="Facebook_itsalive.html">itsalive.io</a></li>
 </ul>
 
 To see them in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
