@@ -20,6 +20,7 @@ List of already implemented chatbots using Facebook:
   <li><a href="chatfuel_checkbox.html">chatfuel.com checkbox</a></li>
   <li><a href="Facebook.html">facebook.com</a></li>
   <li><a href="Facebook_itsalive.html">itsalive.io</a></li>
+  <li><a href="manychat.html">manychat.com</a></li>
 </ul>
 
 To see all of these bots in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
