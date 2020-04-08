@@ -31,4 +31,4 @@ List of already implemented chatbots that use webchat or Facebook depending if y
 
 To see all of these bots in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
 
-..
+.
