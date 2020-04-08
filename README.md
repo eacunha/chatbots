@@ -11,7 +11,6 @@ List of already implemented chatbots using webchat:
   <li><a href="flowxo.html">flowxo.com</a></li>
   <li><a href="https://fxo.io/m/85eyk78b">flowxo.com self-hosted</a></li>
   <li><a href="hubspot.html">hubspot.com</a></li>
-  <li><a href="mobilemonkey.html">mobilemonkey.com</a></li>
 </ul>
 
 List of already implemented chatbots using Facebook:
@@ -22,6 +21,11 @@ List of already implemented chatbots using Facebook:
   <li><a href="Facebook.html">facebook.com</a></li>
   <li><a href="Facebook_itsalive.html">itsalive.io</a></li>
   <li><a href="manychat.html">manychat.com</a></li>
+</ul>
+
+List of already implemented chatbots that use webchat or Facebook depending if you are already logged in to Facebook:
+<ul style="list-style-type:circle;">
+  <li><a href="mobilemonkey.html">mobilemonkey.com</a></li>
 </ul>
 
 To see all of these bots in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
