@@ -2,6 +2,7 @@
 List of already implemented chatbots using webchat:
 
 <ul style="list-style-type:circle;">
+  <li><a href="botmake.html">botmake.io</a></li>
   <li><a href="botstar.html">botstar.com</a></li>
   <li><a href="SAPCAI.html">cai.tools.sap</a></li>
   <li><a href="chatbot.html">chatbot.com</a></li>
