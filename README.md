@@ -12,6 +12,7 @@ List of already implemented chatbots using webchat:
   <li><a href="flowxo.html">flowxo.com</a></li>
   <li><a href="https://fxo.io/m/85eyk78b">flowxo.com self-hosted</a></li>
   <li><a href="hubspot.html">hubspot.com</a></li>
+  <li><a href="smooch.html">smooch.io</a></li>
 </ul>
 
 List of already implemented chatbots using Facebook:
