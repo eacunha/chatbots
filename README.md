@@ -1,4 +1,4 @@
-# chatbots
+# Chatbots
 List of already implemented chatbots using webchat:
 
 <ul style="list-style-type:circle;">
