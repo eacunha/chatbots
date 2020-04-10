@@ -14,6 +14,7 @@ List of already implemented chatbots using webchat:
   <li><a href="gupshop.html">gupshop.io</a></li>
   <li><a href="hubspot.html">hubspot.com</a></li>
   <li><a href="smooch.html">smooch.io</a></li>
+  <li><a href="xenioo.html">xenioo.com</a></li>
 </ul>
 
 List of already implemented chatbots using Facebook:
