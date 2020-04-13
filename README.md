@@ -7,6 +7,7 @@ List of implemented chatbots using webchat:
   <li><a href="SAPCAI.html">cai.tools.sap</a></li>
   <li><a href="chatbot.html">chatbot.com</a></li>
   <li><a href="chatbotize.html">chatbotize.com</a></li>
+  <li><a href="dialogflow.html">dialogflow.com</a></li>
   <li><a href="engati.html">engati.com</a></li>
   <li><a href="flow.html">flow.ai</a></li>
   <li><a href="flowxo.html">flowxo.com</a></li>
