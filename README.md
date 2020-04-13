@@ -1,5 +1,5 @@
 # Chatbots
-List of already implemented chatbots using webchat:
+List of implemented chatbots using webchat:
 
 <ul style="list-style-type:circle;">
   <li><a href="botmake.html">botmake.io</a></li>
@@ -16,7 +16,7 @@ List of already implemented chatbots using webchat:
   <li><a href="xenioo.html">xenioo.com</a></li>
 </ul>
 
-List of already implemented chatbots using Facebook:
+List of implemented chatbots using Facebook:
 
 <ul style="list-style-type:circle;">
   <li><a href="chatfuel.html">chatfuel.com</a></li>
@@ -26,16 +26,23 @@ List of already implemented chatbots using Facebook:
   <li><a href="manychat.html">manychat.com</a></li>
 </ul>
 
-List of already implemented chatbots that use webchat or Facebook depending if you are already logged in to Facebook:
+List of implemented chatbots that use webchat or Facebook depending if you are already logged in to Facebook:
 <ul style="list-style-type:circle;">
   <li><a href="mobilemonkey.html">mobilemonkey.com</a></li>
 </ul>
 
-List of chatbots with self-hosting feature:
+List of implemented chatbots with self-hosting feature:
 <ul style="list-style-type:circle;">
   <li><a href="https://fxo.io/m/85eyk78b">flowxo.com</a></li>
   <li><a href="https://preview.xenioo.com/u/app02/SufVv9VaUATA8aOMIYzijIVy">xenioo.com</a></li>
 </ul>
 
 To see all of these bots in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
+
+List of chatbots implemented by 3rd party (usually the companies themselves):
+
+<ul style="list-style-type:circle;">
+  <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a></li> (Name, Email,.. )
+  <li><a href="https://preview.xenioo.com/u/app02/SufVv9VaUATA8aOMIYzijIVy">xenioo.com</a></li>
+</ul>
 
