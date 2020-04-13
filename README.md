@@ -42,7 +42,12 @@ To see all of these bots in action access the [GitHub Pages](https://eacunha.git
 List of chatbots implemented by 3rd party (usually the companies themselves):
 
 <ul style="list-style-type:circle;">
-  <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a></li> (Name, Email,.. )
-  <li><a href="https://preview.xenioo.com/u/app02/SufVv9VaUATA8aOMIYzijIVy">xenioo.com</a></li>
+  <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a></li> (name, email,.. )
+  <li><a href="http://www.square-bear.co.uk/mitsuku/nfchat.htm">Mitsuku</a></li> (birth place, name, ..)
+  <li><a href="https://rasa.com/docs/getting-started/">Sara from rasa.com/</a></li> (job, email,  ..)
+  <li><a href="https://www.cleverbot.com/?2">Cleverbot from cleverbot.com/</a></li> (can ask for name and weird things like favorite color, long hair, if you are rich, ..)
+  <li><a href="https://www.leroymerlin.com.br/fale-conosco">Lia from www.leroymerlin.com.br/fale-conosco</a></li> (job, email,  ..)
+  
+  
 </ul>
 
