@@ -65,10 +65,10 @@ List of chatbots implemented by 3rd party that can ask for personal information 
   <li><a href="https://rasa.com/docs/getting-started/">Sara</a></li> (job, email, ..)
   <li><a href="https://www.cleverbot.com/?2">Cleverbot</a></li> (name, favorite color, long hair, if you are rich, potentially much more ..)
   <li><a href="https://www.leroymerlin.com.br/fale-conosco">Lia</a></li> (Brazil identity ID CPF & RG, .. )
-  <li><a href="http://qaqash.com">QAWASH</a> Can ask for anything as users can define the answers from unknown questions</li>
-  <li><a href="https://www.botsquad.com">Bonnie</a> first name, last name, email, .. </li>
+  <li><a href="http://qaqash.com">QAWASH</a> (Can ask for anything as users can define the answers from unknown questions)</li>
+  <li><a href="https://www.botsquad.com">Bonnie</a> (first name, last name, email, ..) </li>
   <li><a href="https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You">Apollo
-  </a> email, ..</li>
+  </a> (email, ..)</li>
   
 </ul>
 
