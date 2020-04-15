@@ -48,27 +48,27 @@ To see all of these bots in action access the [GitHub Pages](https://eacunha.git
 List of chatbots implemented by 3rd party that directly ask for personal information without mentioning GDPR:
 
 <ul style="list-style-type:circle;">
-  <li><a href="https://www.getjenny.com">Jenny from https://www.getjenny.com</a></li> (name, email, ..)
+  <li><a href="https://www.getjenny.com">Jenny</a></li> (name, email, ..)
   <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a></li> (name, email, .. )
-  <li><a href="https://botsify.com">Botsify from https://botsify.com</a></li> (name, email, ..)
-  <li><a href="https://www.botbase.tech">Botbase Team from https://www.botbase.tech</a></li> (name, email, company, ..)
-  <li><a href="https://www.labs.ai">EDDI-Bot Team from https://www.labs.ai</a></li> (name)
-  <li><a href="https://www.enterprisebotmanager.com">Hello from https://www.enterprisebotmanager.com</a></li> (email, ..)
-  <li><a href="https://www.ideta.io">Ideta from https://www.ideta.io</a></li> (name, email, ..)
-  <li><a href="https://skinive.com">Skina bot from https://skinive.com</a></li> (photo, ..)
+  <li><a href="https://botsify.com">Botsify</a></li> (name, email, ..)
+  <li><a href="https://www.botbase.tech">Botbase Team</a></li> (name, email, company, ..)
+  <li><a href="https://www.labs.ai">EDDI-Bot Team</a></li> (name)
+  <li><a href="https://www.enterprisebotmanager.com">Hello</a></li> (email, ..)
+  <li><a href="https://www.ideta.io">Ideta</a></li> (name, email, ..)
+  <li><a href="https://skinive.com">Skina Bot</a></li> (photo, ..)
 </ul>
 
 List of chatbots implemented by 3rd party that can ask for personal information (depending on the conversation) without mentioning GDPR:
 
 <ul style="list-style-type:circle;">
-  <li><a href="http://www.square-bear.co.uk/mitsuku/nfchat.htm">Mitsuku</a></li> (birth place, name, ..)
-  <li><a href="https://rasa.com/docs/getting-started/">Sara from rasa.com</a></li> (job, email,  ..)
-  <li><a href="https://www.cleverbot.com/?2">Cleverbot from cleverbot.com</a></li> (can ask for name and weird things like favorite color, long hair, if you are rich, ..)
-  <li><a href="https://www.leroymerlin.com.br/fale-conosco">Lia from www.leroymerlin.com.br/fale-conosco</a></li> (Brazil identity ID CPF & RG, .. )
-  <li><a href="http://qaqash.com">QAWASH from http://qaqash.com</a> Can ask for anything as users can define the answers from unknown questions</li>
-  <li><a href="https://www.botsquad.com">Bonnie from https://www.botsquad.com</a> Can ask first name, last name and email </li>
-  <li><a href="https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You">Apollo from https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You 
-  </a> can ask for email</li>
+  <li><a href="http://www.square-bear.co.uk/mitsuku/nfchat.htm">Mitsuku</a></li> (birth place, name, potentially much more..)
+  <li><a href="https://rasa.com/docs/getting-started/">Sara</a></li> (job, email, ..)
+  <li><a href="https://www.cleverbot.com/?2">Cleverbot</a></li> (name, favorite color, long hair, if you are rich, potentially much more ..)
+  <li><a href="https://www.leroymerlin.com.br/fale-conosco">Lia</a></li> (Brazil identity ID CPF & RG, .. )
+  <li><a href="http://qaqash.com">QAWASH</a> Can ask for anything as users can define the answers from unknown questions</li>
+  <li><a href="https://www.botsquad.com">Bonnie</a> first name, last name, email, .. </li>
+  <li><a href="https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You">Apollo
+  </a> email, ..</li>
   
 </ul>
 
