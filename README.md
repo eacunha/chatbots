@@ -48,14 +48,14 @@ To see all of these bots in action access the [GitHub Pages](https://eacunha.git
 List of chatbots implemented by 3rd party that directly ask for personal information without mentioning GDPR:
 
 <ul style="list-style-type:circle;">
-  <li><a href="https://www.getjenny.com">Jenny from https://www.getjenny.com</a></li> (directly asks for name and email)
-  <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a></li> (name, email,.. )
-  <li><a href="https://botsify.com">Botsify from https://botsify.com</a></li> (asks for name and email to start the conversation)
-  <li><a href="https://www.botbase.tech">Botbase Team from https://www.botbase.tech</a></li> (asks for name, email and company to start the conversation)
-  <li><a href="https://www.labs.ai">EDDI-Bot Team from https://www.labs.ai</a></li> (asks for name)
-  <li><a href="https://www.enterprisebotmanager.com">Hello from https://www.enterprisebotmanager.com</a></li> (asks for email address)
-  <li><a href="https://www.ideta.io">Ideta from https://www.ideta.io</a></li> (asks for name and email address)
-  <li><a href="https://skinive.com">Skina bot from https://skinive.com</a></li> (asks for a photo)
+  <li><a href="https://www.getjenny.com">Jenny from https://www.getjenny.com</a></li> (name, email, ..)
+  <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a></li> (name, email, .. )
+  <li><a href="https://botsify.com">Botsify from https://botsify.com</a></li> (name, email, ..)
+  <li><a href="https://www.botbase.tech">Botbase Team from https://www.botbase.tech</a></li> (name, email, company, ..)
+  <li><a href="https://www.labs.ai">EDDI-Bot Team from https://www.labs.ai</a></li> (name)
+  <li><a href="https://www.enterprisebotmanager.com">Hello from https://www.enterprisebotmanager.com</a></li> (email, ..)
+  <li><a href="https://www.ideta.io">Ideta from https://www.ideta.io</a></li> (name, email, ..)
+  <li><a href="https://skinive.com">Skina bot from https://skinive.com</a></li> (photo, ..)
 </ul>
 
 List of chatbots implemented by 3rd party that can ask for personal information (depending on the conversation) without mentioning GDPR:
