@@ -56,6 +56,7 @@ List of chatbots implemented by 3rd party that directly ask for personal informa
   <li><a href="https://www.enterprisebotmanager.com">Hello</a></li> (email, ..)
   <li><a href="https://www.ideta.io">Ideta</a></li> (name, email, ..)
   <li><a href="https://skinive.com">Skina Bot</a></li> (photo, ..)
+  <li><a href="https://smooch.io/">Sunshine Conversations</a></li> (first name, last name, work email ..)
 </ul>
 
 List of chatbots implemented by 3rd party that can ask for personal information (depending on the conversation) without mentioning GDPR:
