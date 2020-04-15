@@ -43,7 +43,7 @@ List of implemented chatbots with self-hosting feature:
 
 To see all of these bots in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
 
-================================================================================
+==================================================================================
 
 List of chatbots implemented by 3rd party that directly ask for personal information without mentioning GDPR:
 
@@ -65,10 +65,10 @@ List of chatbots implemented by 3rd party that can ask for personal information 
   <li><a href="https://rasa.com/docs/getting-started/">Sara from rasa.com</a></li> (job, email,  ..)
   <li><a href="https://www.cleverbot.com/?2">Cleverbot from cleverbot.com</a></li> (can ask for name and weird things like favorite color, long hair, if you are rich, ..)
   <li><a href="https://www.leroymerlin.com.br/fale-conosco">Lia from www.leroymerlin.com.br/fale-conosco</a></li> (Brazil identity ID CPF & RG, .. )
-  <li><a href="http://qaqash.com">QAWASH from http://qaqash.com</a></li>
-  <li><a href="https://www.botsquad.com">Bonnie from https://www.botsquad.com</a></li>
-  <li><a href="https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You">Apollo from https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You
-  </a></li>
+  <li><a href="http://qaqash.com">QAWASH from http://qaqash.com</a> Can ask for anything as users can define the answers from unknown questions</li>
+  <li><a href="https://www.botsquad.com">Bonnie from https://www.botsquad.com</a> Can ask first name, last name and email </li>
+  <li><a href="https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You">Apollo from https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You 
+  </a> can ask for email</li>
   
 </ul>
 
