@@ -71,6 +71,8 @@ List of chatbots implemented by 3rd party that can ask for personal information 
   <li><a href="https://www.botsquad.com">Bonnie</a></li> (first name, last name, email, ..)
   <li><a href="https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You">Apollo
   </a></li> (email, ..)
+  <li><a href="https://www.starshotsoftware.com/chatbots-and-ai-services">Shotsie
+  </a></li> (name, company name, email, ..)
 </ul>
 
 List of chatbots implemented by 3rd party that comply with GDPR:
