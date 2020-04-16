@@ -63,6 +63,7 @@ List of chatbots implemented by 3rd party that directly ask for personal informa
 List of chatbots implemented by 3rd party that can ask for personal information (depending on the conversation) without complying with GDPR:
 
 <ul style="list-style-type:circle;">
+  <li><a href="https://bottr.me/">Bottr</a></li> (email, ..)
   <li><a href="http://www.square-bear.co.uk/mitsuku/nfchat.htm">Mitsuku</a></li> (birth place, name, potentially much more..)
   <li><a href="https://rasa.com/docs/getting-started/">Sara</a></li> (job, email, ..)
   <li><a href="https://www.cleverbot.com/?2">Cleverbot</a></li> (name, favorite color, long hair, if you are rich, potentially much more ..)
