@@ -80,5 +80,3 @@ List of chatbots implemented by 3rd party that comply with GDPR:
 <ul style="list-style-type:circle;">
   <li><a href="https://www.drift.com">DriftBot</a></li> (Opens up "Data Protection Bot" first explaining that they will collect personal information and for what purpose beforehand)
 </ul>
-
-.
