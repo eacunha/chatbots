@@ -48,32 +48,31 @@ To see all of these bots in action access the [GitHub Pages](https://eacunha.git
 List of chatbots implemented by 3rd party that directly ask for personal information without complying with GDPR:
 
 <ul style="list-style-type:circle;">
-  <li><a href="https://www.getjenny.com">Jenny</a></li> (name, email, ..)
-  <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a></li> (name, email, .. )
-  <li><a href="https://botsify.com">Botsify</a></li> (name, email, ..)
   <li><a href="https://www.botbase.tech">Botbase Team</a></li> (name, email, company, ..)
+  <li><a href="https://botsify.com">Botsify</a></li> (name, email, ..)
   <li><a href="https://www.labs.ai">EDDI-Bot Team</a></li> (name)
   <li><a href="https://www.enterprisebotmanager.com">Hello</a></li> (email, ..)
   <li><a href="https://www.ideta.io">Ideta</a></li> (name, email, ..)
+  <li><a href="https://www.getjenny.com">Jenny</a></li> (name, email, ..)
   <li><a href="https://skinive.com">Skina Bot</a></li> (photo, ..)
+  <li><a href="https://www.zendesk.com/message/state-of-messaging-2020/#chapter-1">Sunny</a></li> (name, ..)
   <li><a href="https://smooch.io/">Sunshine Conversations</a></li> (first name, last name, work email ..)
-   <li><a href="https://www.zendesk.com/message/state-of-messaging-2020/#chapter-1">Sunny</a></li> (name, ..)
+  <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a></li> (name, email, .. )
 </ul>
 
 List of chatbots implemented by 3rd party that can ask for personal information (depending on the conversation) without complying with GDPR:
 
 <ul style="list-style-type:circle;">
-  <li><a href="https://bottr.me/">Bottr</a></li> (email, ..)
-  <li><a href="http://www.square-bear.co.uk/mitsuku/nfchat.htm">Mitsuku</a></li> (birth place, name, potentially much more..)
-  <li><a href="https://rasa.com/docs/getting-started/">Sara</a></li> (job, email, ..)
-  <li><a href="https://www.cleverbot.com/?2">Cleverbot</a></li> (name, favorite color, long hair, if you are rich, potentially much more ..)
-  <li><a href="https://www.leroymerlin.com.br/fale-conosco">Lia</a></li> (Brazil identity ID CPF & RG, .. )
-  <li><a href="http://qaqash.com">QAWASH</a></li> (Can ask for anything as users can define the answers from unknown questions)
-  <li><a href="https://www.botsquad.com">Bonnie</a></li> (first name, last name, email, ..)
   <li><a href="https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You">Apollo
   </a></li> (email, ..)
-  <li><a href="https://www.starshotsoftware.com/chatbots-and-ai-services">Shotsie
-  </a></li> (name, company name, email, ..)
+  <li><a href="https://www.botsquad.com">Bonnie</a></li> (first name, last name, email, ..)
+  <li><a href="https://bottr.me/">Bottr</a></li> (email, ..)
+  <li><a href="https://www.cleverbot.com/?2">Cleverbot</a></li> (name, favorite color, long hair, if you are rich, potentially much more ..)
+  <li><a href="https://www.leroymerlin.com.br/fale-conosco">Lia</a></li> (Brazil identity ID CPF & RG, .. )
+  <li><a href="http://www.square-bear.co.uk/mitsuku/nfchat.htm">Mitsuku</a></li> (birth place, name, potentially much more..)
+  <li><a href="http://qaqash.com">QAWASH</a></li> (Can ask for anything as users can define the answers from unknown questions)
+  <li><a href="https://rasa.com/docs/getting-started/">Sara</a></li> (job, email, ..)
+  <li><a href="https://www.starshotsoftware.com/chatbots-and-ai-services">Shotsie</a></li> (name, company name, email, ..)
 </ul>
 
 List of chatbots implemented by 3rd party that comply with GDPR:
