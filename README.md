@@ -43,9 +43,9 @@ List of implemented chatbots with self-hosting feature:
 
 To see all of these bots in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
 
-==================================================================================
+===================================================================================
 
-List of chatbots implemented by 3rd party that directly ask for personal information without mentioning GDPR:
+List of chatbots implemented by 3rd party that directly ask for personal information without complying with GDPR:
 
 <ul style="list-style-type:circle;">
   <li><a href="https://www.getjenny.com">Jenny</a></li> (name, email, ..)
@@ -57,9 +57,10 @@ List of chatbots implemented by 3rd party that directly ask for personal informa
   <li><a href="https://www.ideta.io">Ideta</a></li> (name, email, ..)
   <li><a href="https://skinive.com">Skina Bot</a></li> (photo, ..)
   <li><a href="https://smooch.io/">Sunshine Conversations</a></li> (first name, last name, work email ..)
+   <li><a href="https://www.zendesk.com/message/state-of-messaging-2020/#chapter-1">Sunny</a></li> (name, ..)
 </ul>
 
-List of chatbots implemented by 3rd party that can ask for personal information (depending on the conversation) without mentioning GDPR:
+List of chatbots implemented by 3rd party that can ask for personal information (depending on the conversation) without complying with GDPR:
 
 <ul style="list-style-type:circle;">
   <li><a href="http://www.square-bear.co.uk/mitsuku/nfchat.htm">Mitsuku</a></li> (birth place, name, potentially much more..)
