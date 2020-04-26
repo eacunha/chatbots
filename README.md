@@ -1,4 +1,3 @@
-# Chatbots & Data Privacy
 List of implemented chatbots using webchat:
 
 <ul style="list-style-type:circle;">
