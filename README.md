@@ -40,6 +40,7 @@ List of implemented chatbots with self-hosting feature:
   <li><a href="https://fxo.io/m/85eyk78b">flowxo.com</a></li>
   <li><a href="https://preview.xenioo.com/u/app02/SufVv9VaUATA8aOMIYzijIVy">xenioo.com</a></li>
   <li><a href="https://bot.dialogflow.com/ff63f14f-d000-4b76-9196-94a46236a0aa">dialogflow.com</a></li>
+  <li><a href="https://webchat.snatchbot.me/eb6597596be7f48006b7d465d3f8eb490b93e9bfc745677ee660cf3a5b1c8431</a></li>
 </ul>
 
 To see all of these bots in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
