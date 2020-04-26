@@ -16,6 +16,7 @@ List of implemented chatbots using webchat:
   <li><a href="smooch.html">smooch.io</a></li>
   <li><a href="snatchbot.html">snatchbot.me</a></li>
   <li><a href="quribot.html">quribot.com</a></li>
+  <li><a href="tidio.html">tidio.com</a></li>
   <li><a href="xenioo.html">xenioo.com</a></li>
 </ul>
 
