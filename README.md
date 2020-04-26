@@ -64,7 +64,7 @@ List of chatbots implemented by 3rd party that directly ask for personal informa
   <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a></li> (name, email, .. )
 </ul>
 
-List of chatbots implemented by 3rd party that can ask for personal information (depending on the conversation) without complying with GDPR:
+List of chatbots implemented by 3rd party that can ask for personal information without complying with GDPR:
 
 <ul style="list-style-type:circle;">
   <li><a href="https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You">Apollo
