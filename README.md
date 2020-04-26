@@ -28,6 +28,7 @@ List of implemented chatbots using Facebook:
   <li><a href="Facebook.html">facebook.com</a></li>
   <li><a href="Facebook_itsalive.html">itsalive.io</a></li>
   <li><a href="manychat.html">manychat.com</a></li>
+  <li><a href="snatchbot_fb.html">snatchbot.me</a></li>
 </ul>
 
 List of implemented chatbots that use webchat or Facebook depending if you are already logged in to Facebook:
