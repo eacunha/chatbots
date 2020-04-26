@@ -45,7 +45,7 @@ List of implemented chatbots with self-hosting feature:
 
 To see all of these bots in action access the [GitHub Pages](https://eacunha.github.io/chatbots)
 
-===================================================================================
+================================================================================
 
 List of chatbots implemented by 3rd party that directly ask for personal information without complying with GDPR:
 
