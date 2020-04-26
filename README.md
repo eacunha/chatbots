@@ -53,6 +53,7 @@ List of chatbots implemented by 3rd party that directly ask for personal informa
   <li><a href="https://www.labs.ai">EDDI-Bot Team</a></li> (name)
   <li><a href="https://www.enterprisebotmanager.com">Hello</a></li> (email, ..)
   <li><a href="https://www.ideta.io">Ideta</a></li> (name, email, ..)
+  <li><a href="https://snatchbot.me/">Lexi by SnatchBot</a></li> (name, ..)
   <li><a href="https://www.getjenny.com">Jenny</a></li> (name, email, ..)
   <li><a href="https://skinive.com">Skina Bot</a></li> (photo, ..)
   <li><a href="https://www.zendesk.com/message/state-of-messaging-2020/#chapter-1">Sunny</a></li> (name, ..)
