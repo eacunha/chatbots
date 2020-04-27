@@ -58,6 +58,7 @@ List of chatbots implemented by 3rd party that directly ask for personal informa
   <li><a href="https://www.ideta.io">Ideta</a></li> (name, email, ..)
   <li><a href="https://snatchbot.me/">Lexi by SnatchBot</a></li> (name, ..)
   <li><a href="https://www.getjenny.com">Jenny</a></li> (name, email, ..)
+  <li><a href="https://www.topuniversities.com/university-rankings-articles/university-subject-rankings/top-medical-schools-2020">Reese</a></li> (name, ..)
   <li><a href="https://skinive.com">Skina Bot</a></li> (photo, ..)
   <li><a href="https://www.zendesk.com/message/state-of-messaging-2020/#chapter-1">Sunny</a></li> (name, ..)
   <li><a href="https://smooch.io/">Sunshine Conversations</a></li> (first name, last name, work email ..)
