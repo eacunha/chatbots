@@ -82,6 +82,7 @@ List of chatbots implemented by 3rd party that can ask for personal information 
 <ul style="list-style-type:circle;">
   <li><a href="https://webchat.botframework.com/embed/AvatierChatbot4/gemini?b=AvatierChatbot4&s=ckkUkDh4xHs.cwA.PIg.7u6h3GNAegO_gOcv41W33_bvGfWkr2WfjJWkv9rXprY&username=You">Apollo
   </a> (email, ..)</li>
+  <li><a href="https://www.boibot.com/en/">Boibot</a> (can ask for potentially any personal information)</li>
   <li><a href="https://www.botsquad.com">Bonnie</a> (first name, last name, email, ..)</li>
   <li><a href="https://bottr.me/">Bottr</a> (email, ..)</li>
   <li><a href="https://www.cleverbot.com/?2">Cleverbot</a> (name, favorite color, long hair, if you are rich, potentially much more ..) </li>
