@@ -4,7 +4,8 @@ List of implemented chatbots using webchat:
   <li><a href="botmake.html">botmake.io</a></li>
   <li><a href="botstar.html">botstar.com</a></li>
   <li><a href="SAPCAI.html">cai.tools.sap</a></li>
-  <li><a href="chatbot.html">chatbot.com</a></li>
+  <li><a href="chatbot.html">chatbot.com</a> (expired) </li>
+  <li><a href="chatbot.html">chatbot2.com</a> (valid from 10.05 to 23.05) </li>
   <li><a href="chatbotize.html">chatbotize.com</a> (use Firefox) </li> 
   <li><a href="dialogflow.html">dialogflow.com</a></li>
   <li><a href="engati.html">engati.com</a></li>
