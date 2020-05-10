@@ -2,6 +2,7 @@ List of implemented chatbots using webchat:
 
 <ul style="list-style-type:circle;">
   <li><a href="amplifyreach.html">amplifyreach.com</a></li>
+  <li><a href="artibot.html">artibot.ai</a></li>
   <li><a href="botmake.html">botmake.io</a></li>
   <li><a href="botstar.html">botstar.com</a></li>
   <li><a href="SAPCAI.html">cai.tools.sap</a></li>
