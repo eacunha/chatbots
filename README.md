@@ -82,7 +82,7 @@ List of chatbots implemented by 3rd party that can ask for personal information 
   <li><a href="https://www.meya.ai/">Meya Assistant</a> (mail, ..)</li>
   <li><a href="http://www.square-bear.co.uk/mitsuku/nfchat.htm">Mitsuku</a> (birth place, name, potentially much more..)</li>
   <li><a href="http://qaqash.com">QAWASH</a>(Can ask for anything as users can define the answers from unknown questions)</li>
-  <li><a href="https://rasa.com/docs/getting-started/">Sara</a> (job, email, ..)</li>
+  
   <li><a href="https://www.starshotsoftware.com/chatbots-and-ai-services">Shotsie</a> (name, company name, email, ..)</li>
 </ul>
 
@@ -91,4 +91,5 @@ List of chatbots implemented by 3rd party that comply with GDPR:
 <ul style="list-style-type:circle;">
   <li><a href="https://www.drift.com">DriftBot</a>(Opens up "Data Protection Bot" first explaining that they will collect personal information and for what purpose beforehand) </li> 
   <li><a href="https://www.buoyhealth.com/symptom-checker/">Buoy</a> (Needs to agree with TOS & Privacy that explains beforehand how the personal data is being used.) </li>
+  <li><a href="https://rasa.com/docs/getting-started/">Sara by rasa.com</a> (job, email, ..)</li>
 </ul>
