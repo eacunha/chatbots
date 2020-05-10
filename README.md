@@ -37,6 +37,7 @@ List of implemented chatbots that use webchat or Facebook depending if you are a
 
 List of implemented chatbots with self-hosting feature:
 <ul style="list-style-type:circle;">
+  <li><a href="https://www.chatbot.com/preview/?widgetId=5eb7e06c213cb400060396f0">chatbot.com</a>(valid from 10.05 to 23.05)</li>
   <li><a href="https://fxo.io/m/85eyk78b">flowxo.com</a></li>
   <li><a href="https://preview.xenioo.com/u/app02/SufVv9VaUATA8aOMIYzijIVy">xenioo.com</a></li>
   <li><a href="https://bot.dialogflow.com/ff63f14f-d000-4b76-9196-94a46236a0aa">dialogflow.com</a></li>
