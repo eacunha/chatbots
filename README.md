@@ -21,7 +21,7 @@ List of implemented chatbots using webchat:
 List of implemented chatbots using Facebook:
 
 <ul style="list-style-type:circle;">
-  <li><a href="chatbot-plus.html">chatbot-plus.com (currently broken)</a></li>
+  <li><a href="chatbot-plus.html">chatbot-plus.com</a>(not working, not use)</li>
   <li><a href="chatfuel.html">chatfuel.com</a></li>
   <li><a href="chatfuel_checkbox.html">chatfuel.com checkbox</a></li>
   <li><a href="facebook_itsalive.html">itsalive.io</a></li>
