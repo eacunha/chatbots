@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<script>
+    window.clustaarSettings = {
+      bot_id: '5eb84f5e01aea30646d026bb',
+      bot_token: 'eyJ2YWx1ZSI6IjljQVdTU0xBNk5BbGtWRzdJVUtxNWU5UEx1MTNhWF9GT1Y5MWh0Sk1JVUkiLCJzdWJqZWN0Ijp7InR5cGUiOiJib3QiLCJpZCI6IjVlYjg0ZjVlMDFhZWEzMDY0NmQwMjZiYiJ9fQ==',
+    };
+    var callWebchat = function () {
+      var w = window;
+      var ic = w.Clustaar;
+      if (typeof ic === 'function') {
+        ic('reattach_activator');
+        ic('update', clustaarSettings)
+      } else {
+        var d = document;
+        var i = function () {
+          i.c(arguments)
+        };
+        i.q = [];
+        i.c = function (args) {
+          i.q.push(args)
+        };
+        w.Clustaar = i;
+        var l = function () {
+          var s = d.createElement('script');
+          s.type = 'text/javascript';
+          s.async = !0;
+          s.src = 'https://webchat.clustaar.io/assets/scripts/webchat.js';
+          var x = d.getElementsByTagName('script')[0];
+          x.parentNode.insertBefore(s, x)
+        }
+        l();
+      }
+    };
+    callWebchat()
+</script>
+
+</body>
+</html>
