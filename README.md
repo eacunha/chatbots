@@ -72,6 +72,7 @@ List of chatbots implemented by 3rd party that directly ask for personal informa
   <li><a href="https://www.smatbot.com">SmartBot</a> (name, can ask for email..)</li>
   <li><a href="https://www.zendesk.com/message/state-of-messaging-2020/#chapter-1">Sunny</a> (name, ..)</li>
   <li><a href="https://smooch.io/">Sunshine Conversations</a> (first name, last name, work email ..)</li>
+  <li><a href="https://www.messenger.com/t/tartaai">Tartaai</a> (Asks for your CV) </li>
   <li><a href="tidio.html">tidio.com</a> (email,...) </li>
   <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a>(name, email, .. )</li> 
 </ul>
