@@ -15,7 +15,6 @@ List of implemented chatbots using webchat:
   <li><a href="smooch.html">smooch.io</a></li>
   <li><a href="snatchbot.html">snatchbot.me</a></li>
   <li><a href="quribot.html">quribot.com</a></li>
-  <li><a href="tidio.html">tidio.com</a></li>
   <li><a href="xenioo.html">xenioo.com</a></li>
 </ul>
 
@@ -62,6 +61,7 @@ List of chatbots implemented by 3rd party that directly ask for personal informa
   <li><a href="https://skinive.com">Skina Bot</a></li> (photo, ..)
   <li><a href="https://www.zendesk.com/message/state-of-messaging-2020/#chapter-1">Sunny</a></li> (name, ..)
   <li><a href="https://smooch.io/">Sunshine Conversations</a></li> (first name, last name, work email ..)
+  <li><a href="tidio.html">tidio.com</a></li> (email,...)
   <li><a href="https://www.touchsurgery.com/">touchsurgery.com</a></li> (name, email, .. )
 </ul>
 
