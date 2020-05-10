@@ -78,11 +78,11 @@ List of chatbots implemented by 3rd party that can ask for personal information 
   <li><a href="https://www.botsquad.com">Bonnie</a> (first name, last name, email, ..)</li>
   <li><a href="https://bottr.me/">Bottr</a> (email, ..)</li>
   <li><a href="https://www.cleverbot.com/?2">Cleverbot</a> (name, favorite color, long hair, if you are rich, potentially much more ..) </li>
+  <li><a href="https://convai.huggingface.co/">Convai demo bot</a> (Can ask for potentially everything.. )</li>
   <li><a href="https://www.leroymerlin.com.br/fale-conosco">Lia</a> (Brazil identity ID CPF & RG, .. )</li>
   <li><a href="https://www.meya.ai/">Meya Assistant</a> (mail, ..)</li>
   <li><a href="http://www.square-bear.co.uk/mitsuku/nfchat.htm">Mitsuku</a> (birth place, name, potentially much more..)</li>
   <li><a href="http://qaqash.com">QAWASH</a>(Can ask for anything as users can define the answers from unknown questions)</li>
-  
   <li><a href="https://www.starshotsoftware.com/chatbots-and-ai-services">Shotsie</a> (name, company name, email, ..)</li>
 </ul>
 
