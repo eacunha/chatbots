@@ -14,6 +14,7 @@ List of implemented chatbots using webchat:
   <li><a href="flowxo.html">flowxo.com</a></li>
   <li><a href="gupshop.html">gupshop.io</a></li>
   <li><a href="hubspot.html">hubspot.com</a></li>
+  <li><a href="rundexter.html">rundexter.com</a></li>
   <li><a href="smooch.html">smooch.io</a> (not working, not use) </li>
   <li><a href="snatchbot.html">snatchbot.me</a> (use Firefox)</li>
   <li><a href="quribot.html">quribot.com</a></li>
