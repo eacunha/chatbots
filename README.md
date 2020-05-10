@@ -59,6 +59,7 @@ List of chatbots implemented by 3rd party that directly ask for personal informa
   <li><a href="https://www.labs.ai">EDDI-Bot Team</a> (name) </li>
   <li><a href="https://www.enterprisebotmanager.com">Hello</a> (email, ..)</li>
   <li><a href="https://www.ideta.io">Ideta</a> (name, email, ..)</li>
+  <li><a href="https://imperson.com">Imbot</a> (email, ..)</li>
   <li><a href="https://snatchbot.me/">Lexi by SnatchBot</a> (name, ..)</li>
   <li><a href="https://www.getjenny.com">Jenny</a> (name, email, ..)</li>
   <li><a href="https://www.topuniversities.com/university-rankings-articles/university-subject-rankings/top-medical-schools-2020">Reese</a>(name, ..)</li> 
