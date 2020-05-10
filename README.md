@@ -5,7 +5,7 @@ List of implemented chatbots using webchat:
   <li><a href="botstar.html">botstar.com</a></li>
   <li><a href="SAPCAI.html">cai.tools.sap</a></li>
   <li><a href="chatbot.html">chatbot.com</a></li>
-  <li><a href="chatbotize.html">chatbotize.com</a> (not working on Chrome, use firefox) </li> 
+  <li><a href="chatbotize.html">chatbotize.com</a> (use Firefox) </li> 
   <li><a href="dialogflow.html">dialogflow.com</a></li>
   <li><a href="engati.html">engati.com</a></li>
   <li><a href="flow.html">flow.ai</a></li>
@@ -13,7 +13,7 @@ List of implemented chatbots using webchat:
   <li><a href="gupshop.html">gupshop.io</a></li>
   <li><a href="hubspot.html">hubspot.com</a></li>
   <li><a href="smooch.html">smooch.io</a> (not working, not use) </li>
-  <li><a href="snatchbot.html">snatchbot.me</a></li>
+  <li><a href="snatchbot.html">snatchbot.me</a> (use Firefox)</li>
   <li><a href="quribot.html">quribot.com</a></li>
   <li><a href="xenioo.html">xenioo.com</a></li>
 </ul>
@@ -21,7 +21,7 @@ List of implemented chatbots using webchat:
 List of implemented chatbots using Facebook:
 
 <ul style="list-style-type:circle;">
-  <li><a href="chatbot-plus.html">chatbot-plus.com</a>(not working, not use)</li>
+  <li><a href="chatbot-plus.html">chatbot-plus.com</a> (not working, not use)</li>
   <li><a href="chatfuel.html">chatfuel.com</a></li>
   <li><a href="chatfuel_checkbox.html">chatfuel.com checkbox</a></li>
   <li><a href="facebook_itsalive.html">itsalive.io</a></li>
