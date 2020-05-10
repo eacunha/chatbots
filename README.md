@@ -24,7 +24,7 @@ List of implemented chatbots using Facebook:
   <li><a href="chatbot-plus.html">chatbot-plus.com (currently broken)</a></li>
   <li><a href="chatfuel.html">chatfuel.com</a></li>
   <li><a href="chatfuel_checkbox.html">chatfuel.com checkbox</a></li>
-  <li><a href="Facebook_itsalive.html">itsalive.io</a></li>
+  <li><a href="facebook_itsalive.html">itsalive.io</a></li>
   <li><a href="manychat.html">manychat.com</a></li>
   <li><a href="snatchbot_fb.html">snatchbot.me</a></li>
 </ul>
