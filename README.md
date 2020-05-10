@@ -5,7 +5,7 @@ List of implemented chatbots using webchat:
   <li><a href="botstar.html">botstar.com</a></li>
   <li><a href="SAPCAI.html">cai.tools.sap</a></li>
   <li><a href="chatbot.html">chatbot.com</a></li>
-  <li><a href="chatbotize.html">chatbotize.com</a></li>
+  <li><a href="chatbotize.html">chatbotize.com</a></li> (not working on Chrome, use firefox)
   <li><a href="dialogflow.html">dialogflow.com</a></li>
   <li><a href="engati.html">engati.com</a></li>
   <li><a href="flow.html">flow.ai</a></li>
