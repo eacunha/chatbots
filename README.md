@@ -1,6 +1,6 @@
 List of implemented chatbots using webchat:
 
-<ul style="list-style-type:circle;">
+<ol style="list-style-type:circle;">
   <li><a href="amplifyreach.html">amplifyreach.com</a></li>
   <li><a href="artibot.html">artibot.ai</a> DatePicker</li>
   <li><a href="botmake.html">botmake.io</a> Limits 100 characters</li>
@@ -22,7 +22,7 @@ List of implemented chatbots using webchat:
   <li><a href="snatchbot.html">snatchbot.me</a> (use Firefox)</li>
   <li><a href="quribot.html">quribot.com</a></li>
   <li><a href="xenioo.html">xenioo.com</a></li>
-</ul>
+</ol>
 
 List of implemented chatbots using Facebook:
 
