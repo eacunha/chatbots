@@ -1,13 +1,13 @@
 List of implemented chatbots using webchat:
 
 <ol style="list-style-type:circle;">
-  <li><a href="amplifyreach.html">amplifyreach.com</a></li>
+  <li><a href="amplifyreach.html">amplifyreach.com</a> (expired)</li>
   <li><a href="artibot.html">artibot.ai</a> DatePicker</li>
   <li><a href="botmake.html">botmake.io</a> Limits 100 characters</li>
   <li><a href="botstar.html">botstar.com</a></li>
   <li><a href="SAPCAI.html">cai.tools.sap</a></li>
   <li><a href="chatbot.html">chatbot.com</a> (expired) </li>
-  <li><a href="chatbot2.html">chatbot.com</a> (valid from 10.05 to 23.05) </li>
+  <li><a href="chatbot2.html">chatbot.com</a> (expired from 10.05 to 23.05) </li>
   <li><a href="chatbotize.html">chatbotize.com</a> (use Firefox) </li>
   <li><a href="clustaar.html">clustaar.com</a> (not working) </li>
   <li><a href="dialogflow.html">dialogflow.com</a></li>
@@ -16,9 +16,9 @@ List of implemented chatbots using webchat:
   <li><a href="flowxo.html">flowxo.com</a></li>
   <li><a href="gupshop.html">gupshop.io</a></li>
   <li><a href="hubspot.html">hubspot.com</a></li>
-  <li><a href="rheo.html">rheo.bot</a> (not implemented)</li>
+  <li><a href="rheo.html">rheo.bot</a> (not working)</li>
   <li><a href="rundexter.html">rundexter.com</a></li>
-  <li><a href="smooch.html">smooch.io</a> (not working, not use) </li>
+  <li><a href="smooch.html">smooch.io</a> (not working) </li>
   <li><a href="snatchbot.html">snatchbot.me</a> (use Firefox)</li>
   <li><a href="quribot.html">quribot.com</a></li>
   <li><a href="xenioo.html">xenioo.com</a></li>
@@ -32,7 +32,7 @@ List of implemented chatbots using Facebook:
   <li><a href="chatfuel_checkbox.html">chatfuel.com checkbox</a></li>
   <li><a href="facebook_itsalive.html">itsalive.io</a></li>
   <li><a href="manychat.html">manychat.com</a></li>
-  <li><a href="snatchbot_fb.html">snatchbot.me</a></li>
+  <li><a href="snatchbot_fb.html">snatchbot.me</a> Datepicker</li>
 </ol>
 
 List of implemented chatbots that use webchat or Facebook depending if you are already logged in to Facebook:
