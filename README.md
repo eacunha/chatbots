@@ -2,8 +2,8 @@ List of implemented chatbots using webchat:
 
 <ul style="list-style-type:circle;">
   <li><a href="amplifyreach.html">amplifyreach.com</a></li>
-  <li><a href="artibot.html">artibot.ai</a>DatePicker</li>
-  <li><a href="botmake.html">botmake.io</a></li>
+  <li><a href="artibot.html">artibot.ai</a> DatePicker</li>
+  <li><a href="botmake.html">botmake.io</a> Limits 100 characters</li>
   <li><a href="botstar.html">botstar.com</a></li>
   <li><a href="SAPCAI.html">cai.tools.sap</a></li>
   <li><a href="chatbot.html">chatbot.com</a> (expired) </li>
