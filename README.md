@@ -61,7 +61,7 @@ List of chatbots implemented by 3rd party that directly ask for personal informa
 <ol style="list-style-type:circle;">
   <li><a href="https://www.botbase.tech">Botbase Team</a> (name, email, company, ..)</li>
   <li><a href="https://botsify.com">Botsify</a> (name, email, ..) => they removed the bot from the website.. </li>
-  <li><a href="https://www.labs.ai">EDDI-Bot Team</a> (name) </li>
+  <li><a href="https://www.labs.ai">EDDI-Bot Team</a> (name, email) </li>
   <li><a href="https://www.enterprisebotmanager.com">Hello</a> (email, ..)</li>
   <li><a href="https://www.ideta.io">Ideta</a> (name, email, ..)</li>
   <li><a href="https://imperson.com">Imbot</a> (email, ..)</li>
