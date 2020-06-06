@@ -1,7 +1,7 @@
 List of implemented chatbots using webchat:
 
 <ol style="list-style-type:circle;">
-  <li><a href="amplifyreach.html">amplifyreach.com</a> (only business hours) <kick-start@amplifyreach.com></li>
+  <li><a href="amplifyreach.html">amplifyreach.com</a> (only business hours) kick-start@amplifyreach.com</li>
   <li><a href="artibot.html">artibot.ai</a> DatePicker support@purechat.com</li>
   <li><a href="botmake.html">botmake.io</a> Limits 100 characters hello@botmake.io</li>
   <li><a href="botstar.html">botstar.com</a> info@botstar.com</li>
