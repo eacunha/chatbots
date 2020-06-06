@@ -20,7 +20,7 @@ List of implemented chatbots using webchat:
   <li><a href="rundexter.html">rundexter.com</a></li>
   <li><a href="smooch.html">smooch.io</a> (not working) </li>
   <li><a href="snatchbot.html">snatchbot.me</a> (use Firefox)</li>
-  <li><a href="quribot.html">quribot.com</a></li>
+  <li><a href="quribot.html">quriobot.com</a></li>
   <li><a href="xenioo.html">xenioo.com</a></li>
 </ol>
 
