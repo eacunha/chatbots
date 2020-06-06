@@ -1,27 +1,27 @@
 List of implemented chatbots using webchat:
 
 <ol style="list-style-type:circle;">
-  <li><a href="amplifyreach.html">amplifyreach.com</a> (only business hours) kick-start@amplifyreach.com</li>
-  <li><a href="artibot.html">artibot.ai</a> DatePicker support@purechat.com</li>
-  <li><a href="botmake.html">botmake.io</a> Limits 100 characters hello@botmake.io</li>
-  <li><a href="botstar.html">botstar.com</a> info@botstar.com</li>
-  <li><a href="SAPCAI.html">cai.tools.sap</a> privacy@sap.com.</li>
-  <li><a href="chatbot.html">chatbot.com</a> (expired) support@livechatinc.com</li>
-  <li><a href="chatbot2.html">chatbot.com</a> (expired from 10.05 to 23.05) support@livechatinc.com</li>
-  <li><a href="chatbotize.html">chatbotize.com</a> (use Firefox) https://chatbotize.com/contact</li>
-  <li><a href="clustaar.html">clustaar.com</a> (not working) contact@clustaar.com</li>
-  <li><a href="dialogflow.html">dialogflow.com</a> https://cloud.google.com/dialogflow/docs/support/form</li>
-  <li><a href="engati.html">engati.com</a> contact@engati.com</li>
-  <li><a href="flow.html">flow.ai</a> privacy@flow.ai</li>
-  <li><a href="flowxo.html">flowxo.com</a> support@flowxo.com</li>
-  <li><a href="gupshop.html">gupshup.io</a> dpo@gupshup.io</li>
-  <li><a href="hubspot.html">hubspot.com</a> privacy@hubspot.com</li>
-  <li><a href="rheo.html">rheo.bot</a> (not working) charles@rheo.bot</li>
-  <li><a href="rundexter.html">rundexter.com</a> support@rundexter.com</li>
+  <li><a href="amplifyreach.html">amplifyreach.com</a> (only business hours)</li>
+  <li><a href="artibot.html">artibot.ai</a> DatePicker</li>
+  <li><a href="botmake.html">botmake.io</a> Limits 100 characters</li>
+  <li><a href="botstar.html">botstar.com</a></li>
+  <li><a href="SAPCAI.html">cai.tools.sap</a></li>
+  <li><a href="chatbot.html">chatbot.com</a> (expired)</li>
+  <li><a href="chatbot2.html">chatbot.com</a> (expired from 10.05 to 23.05)</li>
+  <li><a href="chatbotize.html">chatbotize.com</a> (use Firefox)</li>
+  <li><a href="clustaar.html">clustaar.com</a> (not working)</li>
+  <li><a href="dialogflow.html">dialogflow.com</a></li>
+  <li><a href="engati.html">engati.com</a></li>
+  <li><a href="flow.html">flow.ai</a></li>
+  <li><a href="flowxo.html">flowxo.com</a></li>
+  <li><a href="gupshop.html">gupshup.io</a></li>
+  <li><a href="hubspot.html">hubspot.com</a></li>
+  <li><a href="rheo.html">rheo.bot</a> (not working)</li>
+  <li><a href="rundexter.html">rundexter.com</a></li>
   <li><a href="smooch.html">smooch.io</a> (not working) </li>
-  <li><a href="snatchbot.html">snatchbot.me</a> (use Firefox) support@snatchbot.me</li>
-  <li><a href="quribot.html">quriobot.com</a> hello@quriobot.com</li>
-  <li><a href="xenioo.html">xenioo.com</a> info@xenioo.com</li>
+  <li><a href="snatchbot.html">snatchbot.me</a> (use Firefox)</li>
+  <li><a href="quribot.html">quriobot.com</a></li>
+  <li><a href="xenioo.html">xenioo.com</a></li>
 </ol>
 
 List of implemented chatbots using Facebook:
