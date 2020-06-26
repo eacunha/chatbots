@@ -42,6 +42,7 @@ List of implemented chatbots that use webchat or Facebook depending if you are a
 
 List of implemented chatbots with self-hosting feature:
 <ol style="list-style-type:circle;">
+  <li><a href="https://www.botbase.tech">BotBase</a></li>
   <li><a href="https://launch.amplifyreach.com/chat-demo/1fccb792580fc757.html">amplifyreach.com</a></li>
   <li><a href="https://www.chatbot.com/preview/?widgetId=5eb7e06c213cb400060396f0">chatbot.com</a>(valid from 10.05 to 23.05)</li>
   <li><a href="https://bot.dialogflow.com/ff63f14f-d000-4b76-9196-94a46236a0aa">dialogflow.com</a></li>
@@ -59,7 +60,6 @@ To see all of these bots in action access the [GitHub Pages](https://eacunha.git
 List of chatbots implemented by 3rd party that directly ask for personal information without complying with GDPR:
 
 <ol style="list-style-type:circle;">
-  <li><a href="https://www.botbase.tech">Botbase Team</a> (name, email, company, ..)</li>
   <li><a href="https://botsify.com">Botsify</a> (name, email, can ask mobile number ..) </li>
   <li><a href="https://www.labs.ai">EDDI-Bot Team</a> (name, email, country, job title) </li>
   <li><a href="https://www.enterprisebotmanager.com">Hello</a> (email, ..)</li>
