@@ -101,3 +101,11 @@ List of chatbots implemented by 3rd party that comply with GDPR:
   <li><a href="https://www.buoyhealth.com/symptom-checker/">Buoy</a> (Needs to agree with TOS & Privacy that explains beforehand how the personal data is being used.) </li>
   <li><a href="https://rasa.com/docs/getting-started/">Sara by rasa.com</a> (job, email, ..)</li>
 </ol>
+
+===========================================================
+
+Chatbot Popularity:
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"chatbot","geo":"","time":"2004-01-01 2020-07-08"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=chatbot","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+
+
