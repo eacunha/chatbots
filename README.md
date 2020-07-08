@@ -104,8 +104,6 @@ List of chatbots implemented by 3rd party that comply with GDPR:
 
 ===========================================================
 
-Chatbot Popularity:
-
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"chatbot","geo":"","time":"2004-01-01 2020-07-08"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=chatbot","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+Chatbot & GDPR Popularity: 
 
 
