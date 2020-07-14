@@ -94,7 +94,7 @@ List of chatbots implemented by 3rd party that can ask for personal information 
   <li><a href="https://www.starshotsoftware.com/chatbots-and-ai-services">Shotsie</a> (name, company name, email, ..)</li>
 </ol>
 
-List of chatbots implemented by 3rd party that comply with GDPR:
+List of chatbots implemented by 3rd party that partially comply with GDPR:
 
 <ol style="list-style-type:circle;">
   <li><a href="https://www.drift.com">DriftBot</a>(Opens up "Data Protection Bot" first explaining that they will collect personal information and for what purpose beforehand) </li> 
