@@ -14,7 +14,7 @@ List of implemented chatbots using webchat:
   <li><a href="engati.html">engati.com</a></li>
   <li><a href="flow.html">flow.ai</a></li>
   <li><a href="flowxo.html">flowxo.com</a></li>
-  <li><a href="gupshop.html">gupshup.io</a></li>
+  <li><a href="gupshup.html">gupshup.io</a></li>
   <li><a href="hubspot.html">hubspot.com</a></li>
   <li><a href="rheo.html">rheo.bot</a> (not working)</li>
   <li><a href="rundexter.html">rundexter.com</a></li>
