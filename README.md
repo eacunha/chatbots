@@ -46,8 +46,8 @@ List of implemented chatbots with self-hosting feature:
   <li><a href="https://www.chatbot.com/preview/?widgetId=5eb7e06c213cb400060396f0">chatbot.com</a>(valid from 10.05 to 23.05)</li>
   <li><a href="https://bot.dialogflow.com/ff63f14f-d000-4b76-9196-94a46236a0aa">dialogflow.com</a></li>
   <li><a href="https://fxo.io/m/85eyk78b">flowxo.com</a></li>
-  <li><a href="https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/3bcac639-0622-401e-ac5d-ad3da6ff5e85">ibm.com/cloud/watson-assistant</a></li>(Stopped working on early July)
-  <li><a href="https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=3bcac639-0622-401e-ac5d-ad3da6ff5e85&serviceInstanceID=d09b80e0-2cdb-4a33-87c0-29c355e36fa7">ibm.com/cloud/watson-assistant</a></li>
+  <li><a href="https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/3bcac639-0622-401e-ac5d-ad3da6ff5e85">ibm.com/cloud/watson-assistant</a>(Stopped working on early July)
+  <a href="https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=3bcac639-0622-401e-ac5d-ad3da6ff5e85&serviceInstanceID=d09b80e0-2cdb-4a33-87c0-29c355e36fa7">ibm.com/cloud/watson-assistant (new link)</a></li>
   <li><a href="https://landbot.io/u/H-470427-E5NIXNHGR76LICFY/index.html">landbot.io</a></li>
   <li><a href="https://webchat.snatchbot.me/eb6597596be7f48006b7d465d3f8eb490b93e9bfc745677ee660cf3a5b1c8431">snatchbot.me</a></li>
   <li><a href="https://preview.xenioo.com/u/app02/SufVv9VaUATA8aOMIYzijIVy">xenioo.com</a></li>
